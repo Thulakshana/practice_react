@@ -7,6 +7,7 @@ function Link() {
     <Menulink linktext="home" linkurl="/" />
     <Menulink linktext="practice" linkurl="/practice" />
     <Menulink linktext="result" linkurl="/result" />
+    <Menulink linktext="signup" linkurl="/signup" />
 
     </>
   )

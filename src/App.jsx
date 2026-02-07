@@ -4,6 +4,8 @@ import viteLogo from '/vite.svg'
 import './index.css'
 import Header from './Components/Header/Header'
 import Bodycontent from './Components/Header/Bodycontent'
+import Footer from './Components/Footer/Footer'
+import Ft from './Components/Footer/Ft'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -62,6 +64,13 @@ function App() {
 
 
     </Bodycontent>
+
+    <Ft />
+
+<Footer>{/* you can put footer children here */} <h1>xshsuxhx</h1></Footer>
+
+
+    
     </>
   )
 }

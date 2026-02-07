@@ -1,17 +1,16 @@
-import React from 'react'
-import Header from '../Header/Header'
-import Bodycontent from '../Header/Bodycontent'
+import React from "react";
+import Header from "../Header/Header";
+import Bodycontent from "../Header/Bodycontent";
 
-function practice() {
+function Practice() {
   return (
     <>
-    <Header/>
-    <Bodycontent>
-        <h1>practice</h1>
-    </Bodycontent>
-    
+      <Header/>
+      <Bodycontent>
+        <h1>hhsux</h1>
+      </Bodycontent>
     </>
-  )
+  );
 }
 
-export default practice
+export default Practice;

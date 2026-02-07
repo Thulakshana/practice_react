@@ -1,12 +1,12 @@
-import React from 'react'
-import Link from './Link'
+import React from "react";
+import NavLinks from "./NavLinks";
 
 function Header() {
   return (
-  <>
-  <Link/>
-  </>
-  )
+    <>
+      <NavLinks />
+    </>
+  );
 }
 
-export default Header
+export default Header;
